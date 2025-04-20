@@ -15,7 +15,7 @@ efficiency in both technical and collaborative environments.
   <img 
     alt="View CV" 
     title="View CV" 
-    src="https://custom-icon-badges.demolab.com/badge/CV-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2E7D32" />
+    src="https://custom-icon-badges.demolab.com/badge/CV-View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2E7D32" />
 </a>
    </p>
 
