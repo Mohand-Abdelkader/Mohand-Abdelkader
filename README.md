@@ -10,9 +10,8 @@ efficiency in both technical and collaborative environments.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/mohand-abdelkader/">
-         <img alt="LinkedIn Profile"   title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a> 
-      <a href="https://github.com/Mohand-Abdelkader?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Mohand-Abdelkader?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="LinkedIn Profile"   title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
+
    </p>
 
 ---
@@ -26,21 +25,13 @@ efficiency in both technical and collaborative environments.
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmarksvg" />
+<img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <br />
-
-#
-
-### 📊 Stats
-
-![Mohand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohand-Abdelkader&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Mohand-Abdelkader&theme=gruvbox&border_radius=4.5) -->
 
 #
 
