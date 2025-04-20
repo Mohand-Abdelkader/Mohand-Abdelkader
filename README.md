@@ -9,11 +9,11 @@ projects, and optimizing workflows. Excellent communication and problem-solving 
 efficiency in both technical and collaborative environments.
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/mohand-abdelkader/">
+      <a href="https://www.linkedin.com/in/mohand-abdelkader/" target="_blank">
          <img alt="LinkedIn Profile"   title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
 <a href="https://drive.google.com/file/d/1NllaC-NU2Gfg8J4NvLURlkPcJx7PXbPe/view?usp=sharing" target="_blank">
   <img 
-    alt="Download CV" 
+    alt="View CV" 
     title="View or Download My CV" 
     src="https://custom-icon-badges.demolab.com/badge/CV-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2E7D32" />
 </a>
