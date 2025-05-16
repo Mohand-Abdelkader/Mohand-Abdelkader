@@ -17,6 +17,7 @@ efficiency in both technical and collaborative environments.
     title="View CV" 
     src="https://custom-icon-badges.demolab.com/badge/CV-View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2E7D32" />
 </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrew0samir.andrew0samir&left_color=black&right_color=teal"  />
    </p>
 
 ---
@@ -39,6 +40,12 @@ efficiency in both technical and collaborative environments.
 <br />
 
 #
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohand-Abdelkader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew0samir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andrew0samir&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <details>
  <summary><h3>👨‍💻 Mohand's Coding Journey</h3></summary>
