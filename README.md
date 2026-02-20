@@ -64,7 +64,6 @@ Full-Stack Web Developer with hands-on experience building, scaling, and maintai
   <img src="https://streak-stats.demolab.com?user=Mohand-Abdelkader&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" />
 </div>
 
----
 
 <div align="center">
 
